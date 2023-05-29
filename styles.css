@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#photo-heading
+{
+  font-weight:900;
+  text-align: center;
+}
